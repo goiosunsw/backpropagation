@@ -10,3 +10,10 @@ Folder includes:
 * optimiser helper functions in [multi-optimiser.py](./multi-optimiser.py)
 * Annotation data for the audacity project of recent recordings (12/04/2019)
 * Example fitted data for vocal tracts
+
+## Also requires:
+
+* [PyPeVoc](https://github.com/goiosunsw/PyPeVoc) for estimation of fundamental frequency and harmonic amplitudes and phases
+* [ImpedancePython](https://github.com/goiosunsw/ImpedancePython) for reading impedance files and parameters and calculating impedances from geometry
+* [audacity.py](https://github.com/goiosunsw/audacity.py) to read audacity projects
+* [multi_optimiser.py](./multi-optimiser.py), auxiliary functions for optimisation. Should be in this repository
